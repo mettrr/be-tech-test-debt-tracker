@@ -23,7 +23,7 @@ use them.
 
 Once you are done, push your changes to your branch and create a pull
 request to master, tagging @dbatten5 in it and followed by an email to myself
-(address above) to confirm your completion. 
+(address below) to confirm your completion. 
 
 If at any stage you have any questions, please contact Dom at db@mettrr.com.
 
