@@ -17,22 +17,24 @@ instructions in a readme on how to interact with your program.
 Please start by creating a branch from master with the naming convention -
 "{your name}/mettrr-tech-test".
 
+Feel free to use whatever third party packages or dependencies you think may
+help to simplify this test but please be prepared to justify your decision to
+use them.
+
+Once you are done, push your changes to your branch and create a pull
+request to master, tagging @dbatten5 in it and followed by an email to myself
+(address above) to confirm your completion. 
+
+If at any stage you have any questions, please contact Dom at db@mettrr.com.
+
+Good luck!
+
 ## The Test
 
 Your goal is to create a program which can track debts between people. The 
 program should allow the ability to add a debt between two or more people and 
 be able to view for a given person how much they owe and are owed and to whom. 
 You may add any other features you think might benefit the program.
-
-Feel free to use whatever third party packages or dependencies you think may
-help to simplify this test but please be prepared to justify your decision to
-use them.
-
-If at any stage you have any questions, please contact Dom at db@mettrr.com.
-
-Once you are done, push your changes to your branch and create a pull
-request to master, tagging @dbatten5 in it and followed by an email to myself
-(address above) to confirm your completion. Good luck!
 
 ## Bonus Question
 
