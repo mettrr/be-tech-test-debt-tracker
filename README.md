@@ -1,4 +1,4 @@
-# Mettrr Backend Tech Test - The Debt Simplifier
+# Mettrr Backend Tech Test - The Debt Tracker
 
 Welcome to the Mettrr backend tech test!
 
