@@ -19,13 +19,14 @@ help to simplify this test but please be prepared to justify your decision to
 use them.
 
 Please start by cloning or forking the repo to your personal GitHub account,
-renaming the repo to something random of your choosing, see
+renaming the repo to something random of your choosing. See
 [here](https://www.michaelfogleman.com/phrases/) for inspiration.
 
-Once you are done, push your changes and send an email to myself (address below)
-to confirm completion and including a link to your solution.
+Once you are done, push your changes and send an email with a link to your
+solution to myself (address below) to confirm completion.
 
-If at any stage you have any questions, please contact Dom at db@mettrr.com.
+If at any stage you have any questions, please contact Dom at
+[db@mettrr.com](mailto:db@mettrr.com).
 
 Good luck!
 
